@@ -58,4 +58,4 @@ correu.morales.cat               jomateix.morales.cat
 
 
 - Aqui una imatge de com ho tinc creat:
-![Alt text](image-1.png)
+![image](https://github.com/moralesgz/dnsmorales/assets/145341976/d55362c7-a598-4ffe-8b91-c7a64fc1301b)
