@@ -1,6 +1,5 @@
 # dnsmorales
- dnsmorales
-DADES INTRODUIDES AL SERVIDOR:
+# DADES INTRODUIDES AL SERVIDOR:
 
 
 
