@@ -1,61 +1,54 @@
 # dnsmorales
+ 
 # DADES INTRODUIDES AL SERVIDOR:
 
 
 
-Nom (reg. tipus A)       Adreça IP
-
-   - Nombre: moralesjan  -ip:80.05.12.06
-- Nombre: gonzalezoriol -ip:80.05.12.06
-- Nombre: gonzaleznoemi -ip:80.05.12.06
-- Nombre: royuelamarc -ip:80.05.12.06
-- Nombre: moraleseric -ip:80.05.12.06
-- Nombre: felipejose -ip:80.05.12.06
-- Nombre: gonzapolete -ip:80.05.12.06
-- Nombre: domenechpol -ip:80.05.12.06
-- Nombre: moralesdavid -ip:80.05.12.06
-- Nombre: garciaadria -ip:80.05.12.06
-- Nombre: aguilarjosep -ip:80.05.12.06
-- Nombre: ruizvladi -ip:80.05.12.06
-- Nombre: migueljose -ip:80.05.12.06
-- Nombre: lopezjan -ip:80.05.12.06
-- Nombre: sanchezeric -ip:80.05.12.06
-
+| Nom (reg. tipus A) | Adreça IP   |   |   |   |
+|--------------------|-------------|---|---|---|
+| moralesjan         | 80.05.12.06 |   |   |   |
+| gonzalezoriol      | 80.05.12.06 |   |   |   |
+| gonzaleznoemi      | 80.05.12.06 |   |   |   |
+| royuelamarc        | 80.05.12.06 |   |   |   |
+| moraleseric        | 80.05.12.06 |   |   |   |
+| felipejose         | 80.05.12.06 |   |   |   |
+| gonzapolete        | 80.05.12.06 |   |   |   |
+| domenechpol        | 80.05.12.06 |   |   |   |
+| moralesdavid       | 80.05.12.06 |   |   |   |
+| garciaadria        | 80.05.12.06 |   |   |   |
+| aguilarjosep       | 80.05.12.06 |   |   |   |
+| ruizvladi          | 80.05.12.06 
+| migueljose         | 80.05.12.06 
+| lopezjan           | 80.05.12.06 
 
 
 
 
+| Sobrenom (CNAME) | Nom (reg. tipus A)        |
+|-----------------|---------------------------|
+| jo-mateix       | janmorales.morales.cat    |
+| amic-familiar   | adriagarcia.morales.cat   |
+| cosi            | oriolgonzalez.morales.cat |
+| tiet-pare       | vladiruiz.morales.cat     |
+| cosi2           | ericsanchez.morales.cat   |
+| amic-familiar2  | josemiguel.morales.cat    |
+| cosi-pare       | janlopez.morales.cat      |
+| avi             | josepaguilar.morales.cat  |
+| cap-familia     | davidmorales.morales.cat  |
+| germa-tiet      | poldomenech.morales.cat   |
+|                 |                           |
+|                 |                           |
+|                 |                           |
+|                 |                           |
 
 
-Sobrenom (CNAME)                 Nom (reg. tipus A)
-
-  sobrenom: jo-mateix            nom: janmorales.morales.cat
-
-
-  sobrenom: amic-familiar        nom: adriagarcia.morales.cat
-
-  sobrenom: cosi                 nom: oriolgonzalez.morales.cat
-
-  sobrenom: tiet-pare            nom: vladiruiz.morales.cat
-
-  Sobrenom: cosi2                nom: ericsanchez.morales.cat
-  
-  sobrenom: amic-familiar2       nom: josemiguel.morales.cat
-
-  sobrenom: cosi-pare            nom: janlopez.morales.cat
-
-  sobrenom: avi                  nom: josepaguilar.morales.cat
-
-  sobrenom: cap-familia          nom: davidmorales.morales.
-  cat
-  
-  sobrenom: germa-tiet           nom: poldomenech.morales.cat
+| Domini             | Nom                  |
+|--------------------|----------------------|
+| correu.morales.cat | jomateix.morales.cat |
 
 
-Domini                           Nom
-
-correu.morales.cat               jomateix.morales.cat
 
 
-# - Aqui una imatge de com ho tinc creat:
-![image](https://github.com/moralesgz/dnsmorales/assets/145341976/d55362c7-a598-4ffe-8b91-c7a64fc1301b)
+
+# Aqui una imatge de com ho tinc creat:
+![Alt text](image.png)
