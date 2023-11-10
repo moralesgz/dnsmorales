@@ -4,19 +4,19 @@
 
 
 
-| Nom (reg. tipus A) | Adreça IP   |   |   |   |
-|--------------------|-------------|---|---|---|
-| moralesjan         | 80.05.12.06 |   |   |   |
-| gonzalezoriol      | 80.05.12.06 |   |   |   |
-| gonzaleznoemi      | 80.05.12.06 |   |   |   |
-| royuelamarc        | 80.05.12.06 |   |   |   |
-| moraleseric        | 80.05.12.06 |   |   |   |
-| felipejose         | 80.05.12.06 |   |   |   |
-| gonzapolete        | 80.05.12.06 |   |   |   |
-| domenechpol        | 80.05.12.06 |   |   |   |
-| moralesdavid       | 80.05.12.06 |   |   |   |
-| garciaadria        | 80.05.12.06 |   |   |   |
-| aguilarjosep       | 80.05.12.06 |   |   |   |
+| Nom (reg. tipus A) | Adreça IP  
+|--------------------|-------------
+| moralesjan         | 80.05.12.06 
+| gonzalezoriol      | 80.05.12.06 
+| gonzaleznoemi      | 80.05.12.06 
+| royuelamarc        | 80.05.12.06 
+| moraleseric        | 80.05.12.06
+| felipejose         | 80.05.12.06 
+| gonzapolete        | 80.05.12.06 
+| domenechpol        | 80.05.12.06 
+| moralesdavid       | 80.05.12.06 
+| garciaadria        | 80.05.12.06
+| aguilarjosep       | 80.05.12.06 
 | ruizvladi          | 80.05.12.06 
 | migueljose         | 80.05.12.06 
 | lopezjan           | 80.05.12.06 
@@ -36,10 +36,7 @@
 | avi             | josepaguilar.morales.cat  |
 | cap-familia     | davidmorales.morales.cat  |
 | germa-tiet      | poldomenech.morales.cat   |
-|                 |                           |
-|                 |                           |
-|                 |                           |
-|                 |                           |
+
 
 
 | Domini             | Nom                  |
@@ -51,4 +48,5 @@
 
 
 # Aqui una imatge de com ho tinc creat:
-![Alt text](image.png)
+![image](https://github.com/moralesgz/dnsmorales/assets/145341976/159e26e2-c16d-4222-b1d2-7fe2f4b5f02f)
+
