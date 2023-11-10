@@ -24,6 +24,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 | Sobrenom (CNAME) | Nom (reg. tipus A)        |
 |-----------------|---------------------------|
 | jo-mateix       | janmorales.morales.cat    |
@@ -39,9 +48,18 @@
 
 
 
+
+
+
+
+
+
 | Domini             | Nom                  |
 |--------------------|----------------------|
 | correu.morales.cat | jomateix.morales.cat |
+
+
+
 
 
 
